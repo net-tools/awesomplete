@@ -1,0 +1,25 @@
+{
+    "name" : "net-tools/awesomplete",
+	
+    "description" : "Composer library awesomplete",
+	
+	"type": "library",
+	
+	"require" : {
+	},
+	
+    "license" : "MIT",
+
+    "authors": [
+        {
+            "name": "Pierre",
+            "email": "dev@nettools.ovh",
+            "role": "Developer"
+        },
+		{
+			"name":"https://github.com/LeaVerou/awesomplete",
+			"role":"Developer"
+		}
+    ]
+
+}
