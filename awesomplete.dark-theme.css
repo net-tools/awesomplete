@@ -1,0 +1,28 @@
+.awesomplete > ul > li[aria-selected="true"] {
+	background-color: lightslategray !important;
+	color: white !important;
+}
+
+
+.awesomplete > ul > li {
+	color: white !important;
+}
+
+
+.awesomplete > ul {
+	background: #0c1543 !important;
+	box-shadow: 0.05em 0.2em 0.7em #111 !important;
+}
+
+
+.awesomplete mark,
+.awesomplete li:hover mark,
+.awesomplete li[aria-selected="true"] mark {
+	color: white !important;
+	background-color: chocolate !important;
+}
+
+.awesomplete > ul > li:hover {
+	background-color: navajowhite !important;
+	color: black !important;
+}		
